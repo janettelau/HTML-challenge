@@ -13,7 +13,7 @@
 1. Clone this repository to your local machine using `git clone`.
 2. Navigate to the cloned directory in Visual Studio Code.
 3. Open the Jupyter Notebook `part_1_mars_news.ipynb`.
-4. Run each cell sequentially extract the HTML code using automated browsing then scrape news titles and previews.
+4. Run each cell sequentially to extract the HTML code using automated browsing then scrape news titles and previews.
 5. Open the Jupyter Notebook `part_2_mars_weather.ipynb`.
 6. Run each cell sequentially to scrape and analyze Mars weather data.
 
